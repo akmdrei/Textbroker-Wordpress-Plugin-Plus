@@ -1,4 +1,4 @@
-=== Textbroker Enhance ===
+=== Textbroker Wordpress Plugin Plus ===
 Contributors: WordpressAlpar, AKM3
 Tags: seo, keywords, textbroker
 Requires at least: 3.1
