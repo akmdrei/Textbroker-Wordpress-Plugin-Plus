@@ -1,0 +1,632 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Textbroker WordPress-Plugin 3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-13 12:52+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Sevim <vs@sario.de>\n"
+"Language-Team: Fabio Bacigalupo <info1@open-haus.de>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Enter budget information"
+msgstr "Budget hinzufügen"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Enter budget id"
+msgstr "Budget-ID eingeben"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Enter budget key"
+msgstr "Budget-Key eingeben"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Enter budget password"
+msgstr "Passwort eingeben"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "You find your budget information on the Textbroker website."
+msgstr "Sie müssen zuerst ein Budget über die Textbroker-Webseite anlegen. Als eingeloggter Benutzer finden Sie im Kundenbereich einen Abschnitt, der den Namen \"API\" trägt. Dort finden Sie alle weiteren Informationen zum Umgang mit Budgets und der API."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Service location"
+msgstr "Service"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Service: de"
+msgstr "textbroker.de"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Service: us"
+msgstr "textbroker.com"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Save budget information"
+msgstr "Budget anlegen"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Update budget information"
+msgstr "Budget aktualisieren"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Name"
+msgstr "Name"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Budget key"
+msgstr "Budget Key"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Budget id"
+msgstr "Id"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Actions"
+msgstr "Aktionen"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Budgets"
+msgstr "Budgets"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Delete"
+msgstr "Löschen"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "No budgets"
+msgstr "Sie haben noch keine Budgets angelegt. Sie benötigen mindestens ein Budget, um Aufträge erstellen zu können. Fügen Sie jetzt ein Budget hinzu. Die Budget-Daten finden Sie im <a href=\"http://www.textbroker.de/c/api.php\">API-Bereich Ihres Textbroker-Accounts</a>."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Budget information saved successfully"
+msgstr "Budget erfolgreich gespeichert."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Budget information updated successfully"
+msgstr "Budget erfolgreich aktualisiert."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Budget information deleted successfully"
+msgstr "Budget erfolgreich gelöscht."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Manage budgets"
+msgstr "Auftrag erteilen"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Submenu: Check"
+msgstr "Budget-Check"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Submenu: Order"
+msgstr "Auftragsverwaltung"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Add order"
+msgstr "Neuer Auftrag"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "List budget details"
+msgstr "Budget-Details anzeigen"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Period start"
+msgstr "Beginn"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Period end"
+msgstr "Ende"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Budget max"
+msgstr "Maximales Budget"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Budget left"
+msgstr "Verbleibendes Budget"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Budget locked"
+msgstr "Gesperrtes Budget"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Budget used"
+msgstr "Verbrauchtes Budget"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Live"
+msgstr "Live"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Textbroker-WordPress-Plugin"
+msgstr "Textbroker WordPress-Plugin"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "ERROR: Budget id is missing"
+msgstr "Budget ID fehlt."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "ERROR: Budget id is invalid"
+msgstr "Budget ID ist nicht gültig."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "ERROR: Budget key is missing"
+msgstr "Budget Key fehlt."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "ERROR: Budget password is missing"
+msgstr "Passwort für das Budget fehlt."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "ERROR: Budget information is incorrect"
+msgstr "Die Budget-Informationen sind nicht korrekt."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Could not login"
+msgstr "Login konnte nicht durchgeführt werden."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "New order"
+msgstr "Neuer Auftrag"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Create order"
+msgstr "Auftrag erteilen"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Re-create order"
+msgstr "Auftrag neu erstellen"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Order title"
+msgstr "Auftragstitel"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Order text"
+msgstr "Auftragsbeschreibung (Briefing)"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Order category"
+msgstr "Kategorie"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Words maximum"
+msgstr "Anzahl Worte Maximum"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Words minimum"
+msgstr "Anzahl Worte Minimum"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Due days"
+msgstr "Bearbeitungszeit in Tagen"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Rating"
+msgstr "Qualitätsstufe"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Rating 2"
+msgstr "2 Sterne"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Rating 3"
+msgstr "3 Sterne"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Rating 4"
+msgstr "4 Sterne"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Rating 5"
+msgstr "5 Sterne"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Order saved successfully"
+msgstr "Auftrag erfolgreich erteilt."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Orders"
+msgstr "Aufträge"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Title"
+msgstr "Titel"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Order id"
+msgstr "Order-ID"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Order date"
+msgstr "Bestelldatum"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Handling time"
+msgstr "Bearbeitungszeit"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "day"
+msgstr "Tag"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "days"
+msgstr "Tage"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Status"
+msgstr "Status"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "No orders"
+msgstr "Es liegen keine gespeicherten Aufträge vor."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Order status updated successfully"
+msgstr "Der Status wurde erfolgreich aktualisiert."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Accept"
+msgstr "Annehmen"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Preview"
+msgstr "Vorschau"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Publish"
+msgstr "Veröffentlichen"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Remove"
+msgstr "Eintrag entfernen"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Order accepted successfully"
+msgstr "Text erfolgreich angenommen."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Order deleted successfully"
+msgstr "Auftrag erfolgreich gelöscht."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Order published successfully"
+msgstr "Auftrag erfolgreich ins System übernommen."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Order removed successfully"
+msgstr "Eintrag erfolgreich entfernt."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Order revision requested successfully"
+msgstr "Änderungswunsch erfolgreich übermittelt."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Post"
+msgstr "Artikel"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Page"
+msgstr "Seite"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Failed to publish post"
+msgstr "Auftrag konnte nicht als Artikel gespeichert."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Failed to publish page"
+msgstr "Auftrag konnte nicht als Seite gespeichert werden."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Klick to refresh status"
+msgstr "Anklicken zum Aktualisieren des Status"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Current status"
+msgstr "Aktueller Status"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Revise"
+msgstr "Änderungswunsch einreichen"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Request revision"
+msgstr "Überarbeitung anfordern"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Your comment"
+msgstr "Ihr Feedback"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Classification"
+msgstr "Einstufung"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Count words"
+msgstr "Anzahl der Wörter"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Author"
+msgstr "Autor"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Word count"
+msgstr "Max. Wortanzahl"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Cost per word"
+msgstr "Kosten pro Wort"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Max. cost words"
+msgstr "Max. Kosten aller Wörter"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Cost textbroker"
+msgstr "TB-Bearbeitungsgebühr"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Max. cost"
+msgstr "Maximale Kosten"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "ERROR: You have to provide an order title"
+msgstr "Der Auftragstitel fehlt."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "ERROR: You have to select a category"
+msgstr "Es muss eine Kategorie ausgewählt sein."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "ERROR: You have to provide an order text"
+msgstr "Die Auftragsbeschreibung (Briefing) fehlt."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "ERROR: Words minimum is 100 words"
+msgstr "Die Mindestanzahl beträgt ein Wort. "
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "ERROR: Maximum words cannot be smaller than minimum words"
+msgstr "Die maximale Anzahl an Wörtern muss größer oder gleich der minimalen Anzahl sein."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "ERROR: Due days have to be set to 1 or more days"
+msgstr "Die Bearbeitungszeit muss zwischen einem und zehn Tagen liegen."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "ERROR: Rating has to be chosen"
+msgstr "Die Qualitätsstufe muss festgelegt werden."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "ERROR: Your feedback has to be at least 50 characters"
+msgstr "Das Feedback muss mind. 50 Zeichen lang sein."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Review"
+msgstr "Bewertung"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Review 0"
+msgstr "keine Bewertung abgeben, aber den Artikel annehmen"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Review 1"
+msgstr "super"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Review 2"
+msgstr "gut"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Review 3"
+msgstr "geht so"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Review 4"
+msgstr "nicht so besonders"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Order rejected successfully"
+msgstr "Auftrag erfolgreich zurückgewiesen."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "SOAP must be installed"
+msgstr "Ihre PHP-Version unterstützt kein SOAP, welches aber für die Kommunikation mit dem Textbroker-Server dringend benötigt wird. Bitte installieren oder aktivieren Sie die SOAP-Unterstützung bei Ihrer PHP-Installation. Fragen Sie bei Unklarheiten Ihren Administrator."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Installed version of PHP is too old"
+msgstr "Die von Ihnen genutzte PHP-Version ist zu alt und unterstützt nicht alle Funktionen, die zum Ausführen des Plugins benötigt werden. Bitte aktualisieren Sie Ihre PHP-Version auf PHP 5.2 oder neuer. Fragen Sie bei Unklarheiten Ihren Administrator."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Service: fr"
+msgstr "textbroker.fr"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Teams"
+msgstr "Équipes"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+#, fuzzy
+msgid "Create team order"
+msgstr "Auftrag erteilen"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Local currency"
+msgstr "Monnaie locale"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Word"
+msgstr "Mot"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Keywords"
+msgstr "Mots-clés"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Keyword check"
+msgstr ""
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Keyword check details 1"
+msgstr ""
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Keyword check details 2"
+msgstr ""
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Keyword check details 3"
+msgstr ""
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+#, fuzzy
+msgid "ERROR: Maximum keywords cannot be smaller than minimum keywords"
+msgstr "Die maximale Anzahl an Wörtern muss größer oder gleich der minimalen Anzahl sein."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "CopyScape Results"
+msgstr ""
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "CopyScape Results count"
+msgstr ""
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "CopyScape Results checked"
+msgstr ""
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "ERROR: There_are_no_active_teams"
+msgstr ""
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+#, fuzzy
+msgid "New team order"
+msgstr "Neuer Auftrag"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "ERROR: Failed getting budget"
+msgstr ""
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "ERROR: Failed setting budget"
+msgstr ""
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "New proofreading order"
+msgstr ""
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+#, fuzzy
+msgid "Create proofreading order"
+msgstr "Auftrag erteilen"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Add proofreading order"
+msgstr ""
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+#, fuzzy
+msgid "Edit order title"
+msgstr "Auftragstitel"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+#, fuzzy
+msgid "Edit order text"
+msgstr "Auftragsbeschreibung (Briefing)"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+#, fuzzy
+msgid "Instructions"
+msgstr "Aktionen"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+#, fuzzy
+msgid "Instruction details"
+msgstr "Budget-Details anzeigen"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+#, fuzzy
+msgid "Proofread order saved successfully"
+msgstr "Auftrag erfolgreich erteilt."
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Word count for proofreading"
+msgstr ""
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+#, fuzzy
+msgid "Cost per word for proofreading"
+msgstr "Kosten pro Wort"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Service: uk"
+msgstr "textbroker.co.uk"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Service: nl"
+msgstr "textbroker.nl"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/TextbrokerPlugin.php:
+msgid "Service: es"
+msgstr "textbroker.es"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Keyword check on"
+msgstr ""
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Keyword check off"
+msgstr ""
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+#, fuzzy
+msgid "Inflections on"
+msgstr "Aktionen"
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Inflections off"
+msgstr ""
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Stopwords on"
+msgstr ""
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Stopwords off"
+msgstr ""
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Allow stopwords"
+msgstr ""
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "Allow inflections"
+msgstr ""
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "CopyScape Copyrightcheck"
+msgstr ""
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+msgid "no match has been found"
+msgstr ""
+
+#: wp-content/plugins/Textbroker-WordPress-Plugin/lib/TextbrokerOrder.php:
+#, fuzzy
+msgid "Add proofread order"
+msgstr "Auftrag erteilen"
+

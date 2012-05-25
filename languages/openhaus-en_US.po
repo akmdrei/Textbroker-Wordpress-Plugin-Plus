@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: open haus Plugin Standards 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-10-02 12:52+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fabio Bacigalupo <info1@open-haus.de>\n"
+"Language-Team: Fabio Bacigalupo <info1@open-haus.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: wp-content/plugins/.php:292
+msgid "This plugin is developed by open haus."
+msgstr "This is the official <a href=\"http://www.textbroker.com\" class=\"tb-plugin-footer-logo\">Textbroker</a> plugin for Wordpress."
+

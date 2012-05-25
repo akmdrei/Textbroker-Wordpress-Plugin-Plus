@@ -1,0 +1,49 @@
+#oh-plugin-container {
+    width: 600px;
+    padding: 15px 75px 10px 10px;
+}
+
+#oh-plugin-content {
+    padding: 25px 25px 0 10px;
+    background-color: #ffffff;
+}
+
+#oh-plugin-header {
+    margin-bottom: 15px;
+}
+
+#oh-plugin-header h2 {
+    border-bottom:1px solid #364E6D;
+    font-family:Georgia,Serif;
+    font-size:125%;
+    font-style:italic;
+    font-weight:normal;
+    margin:5px 0 6px 0;
+    padding:0 0 3px 0;
+}
+
+#oh-plugin-footer {
+    border-top: 1px solid #364E6D;
+    font-size:68.75%;
+    clear:both;
+    padding:10px 0 10px;
+}
+
+#oh-plugin-logo {
+    padding-top: 25px;
+}
+
+.oh-plugin-footer-logo {
+    background: url("/wp-content/plugins/Textbroker-WordPress-Plugin/images/open-haus_icon.png") no-repeat;
+    padding-left: 18px;
+}
+
+form.std textarea {
+    width: 95%;
+    height: 250px;
+    float: left;
+    padding: 4px 0 2px 6px;
+    overflow: auto;
+}
+
+.right { float: right; }

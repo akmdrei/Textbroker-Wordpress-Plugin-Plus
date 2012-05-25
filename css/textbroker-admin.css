@@ -1,0 +1,102 @@
+#oh-plugin-content h4 {
+    color: #e95e0f;
+    font-size: 115%;
+}
+
+form.tb {
+    width: 100%;
+}
+
+dl.tb-list dt {
+    font-weight: bold;
+    clear: right;
+    float: left;
+    font-size: 85%;
+}
+
+dl.tb-list dd {
+    float: right;
+}
+
+form.tb label {
+    display: block;
+    font-size: 81.25%;
+    padding-top: 1.25em;
+    padding-bottom: 0.2em;
+}
+
+form.tb label.leftLabel {
+    position: relative;
+    display:block!important;
+    width: 100%;
+    text-align:left;
+    padding: 5px 0 5px 0;
+    line-height: 15px;
+}
+
+form.tb label.leftLabel input,
+form.tb label.leftLabel select {
+    position: relative;
+    float: right;
+    margin-top: -5px;
+}
+
+form.tb label.inLabel {
+    display: inline;
+    margin-right: 3px;
+}
+
+input[type="text"], input[type="password"], input[type="file"], select {
+    width: 275px;
+}
+
+.left {
+    float: left;
+}
+
+.half {
+    width: 49%;
+}
+
+input.ultra-short {
+    width: 30px;
+}
+
+input.short, select.short {
+    width: 60px;
+}
+
+input.medium, select.medium {
+    width: 100px;
+}
+
+input.long, select.long, textarea.long {
+    width: 565px;
+}
+
+textarea.full {
+    width: 100%;
+}
+
+.clear {
+    clear: both;
+}
+
+ul.tb-budgets {
+
+}
+
+ul.tb-budgets li {
+    float: left;
+    padding-bottom: 20px;
+    width: 150px;
+}
+
+ul.tb-budgets li a {
+    font-size: 130%;
+}
+
+.tb-plugin-footer-logo {
+    background: url("/wp-content/plugins/Textbroker-WordPress-Plugin/images/textbroker_icon.png") no-repeat;
+    padding-left: 18px;
+}
